@@ -1,6 +1,6 @@
 # joke_api
 
-A new Flutter project.
+https://sv443.net/jokeapi/v2/
 
 ## Getting Started
 
